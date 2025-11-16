@@ -40,19 +40,19 @@ FDVLA is a unified **Flow–Diffusion Vision-Language-Action (VLA)** framework t
 
 ### **1. Dual-Arm – Pick Beverage → Place into Microwave**
 
-<video src="https://github.com/NONO1314520/FDVLA/releases/download/v0.1/3" width="600" controls></video>
+<video src="https://github.com/NONO1314520/FDVLA/releases/download/v0.1/3.mp4" width="600" controls></video>
 
 ---
 
 ### **2. Single-Arm – Open Drawer → Pick Toy → Place → Close Drawer**
 
-<video src="https://github.com/NONO1314520/FDVLA/releases/download/v0.1/2" width="600" controls></video>
+<video src="https://github.com/NONO1314520/FDVLA/releases/download/v0.1/2.mp4" width="600" controls></video>
 
 ---
 
 ### **3. Single-Arm – Pick Object → Place on High Shelf**
 
-<video src="https://github.com/NONO1314520/FDVLA/releases/download/v0.1/1" width="600" controls></video>
+<video src="https://github.com/NONO1314520/FDVLA/releases/download/v0.1/1.mp4" width="600" controls></video>
 
 ---
 
